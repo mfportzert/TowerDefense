@@ -1,0 +1,12 @@
+/gen
+/bin
+/ant.properties
+/build.properties
+/build.xml
+/default.properties
+/lint.xml
+/local.properties
+/proguard.cfg
+/project.properties
+/doc
+/nbandroid
