@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="480" height="320" money="500">
+	
+	<road id="0" x="0" y="224">
+		<to x="928" y="224"/>
+		<to x="928" y="96"/>
+	</road>
+	<road id="1" x="800" y="328">
+		<to x="734" y="224"/>
+		<to x="928" y="224"/>
+		<to x="928" y="96"/>
+	</road>
+	
+    <wave>
+		<monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="2000" type="ZOMBIE"/>
+	    <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        
+		<monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+        <monster road="1" time="0" type="ZOMBIE"/>
+    </wave>
+    <wave>
+		<monster road="0" time="1000" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="500" type="ZOMBIE"/>
+        <monster road="0" time="700" type="ZOMBIE"/>
+        <monster road="0" time="0" type="ZOMBIE"/>
+    </wave>
+</level>

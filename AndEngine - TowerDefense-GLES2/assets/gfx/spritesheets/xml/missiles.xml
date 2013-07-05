@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures/missiles.png" type="bitmap" width="32" height="32" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fb599b2beddbb5fd714118f1e6ff10b9$ -->
+    <textureregion id="0" src="arrow_fire.png" x="0" y="0" width="32" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="17"/>
+    <textureregion id="1" src="arrow_simple.png" x="0" y="17" width="32" height="9" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="9"/>
+</texture>

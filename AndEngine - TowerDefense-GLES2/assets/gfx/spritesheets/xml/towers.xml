@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures/towers.png" type="bitmap" width="256" height="256" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:69b2d471d2483a6afd9c7bd8f4121841$ -->
+    <textureregion id="0" src="arrow_tower.png" x="0" y="0" rows="1" columns="2" width="128" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="64"/>
+    <textureregion id="1" src="building_cloud.png" x="128" y="0" rows="1" columns="2" width="128" height="48" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="48"/>
+    <textureregion id="2" src="fire_arrow_tower.png" x="0" y="64" rows="1" columns="2" width="128" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="64"/>
+    <textureregion id="3" src="range.png" x="128" y="64" width="128" height="128" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="128"/>
+</texture>

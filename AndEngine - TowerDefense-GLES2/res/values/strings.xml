@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Tower Defense</string>
+    <!-- Groups -->
+    <string name="group_tests">Tests</string>
+    <string name="group_levels">Levels</string>
+
+    <!-- Tests -->
+    <string name="test_all">Tests globaux</string>
+    <string name="test_photo">Test photo Intent</string>
+    <string name="test_pixelperfectcollision">PixelPerfect Collision</string>
+
+    <!-- Levels -->
+    <string name="menu">Menu</string>
+    <string name="level_one">Level one</string>
+</resources>

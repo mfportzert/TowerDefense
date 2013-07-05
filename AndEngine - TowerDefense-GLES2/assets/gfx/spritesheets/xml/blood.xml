@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures/blood.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c218ecc4be753be4a62bb2e3047254a2$ -->
+    <textureregion id="0" src="big_blood.png" x="2" y="2" width="460" height="300" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="300"/>
+    <textureregion id="1" src="death_splash.png" x="2" y="304" rows="1" columns="2" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="2" src="hit_splash.png" x="68" y="304" rows="2" columns="4" width="128" height="74" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="74"/>
+    <textureregion id="3" src="static.png" x="198" y="304" width="32" height="128" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="128"/>
+</texture>

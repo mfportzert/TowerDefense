@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures/buttons.png" type="bitmap" width="512" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e649ab293eb8f5a2cc0f2d61967c3c6e$ -->
+    <textureregion id="0" src="close.png" x="0" y="0" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="1" src="create_arrow_tower.png" x="64" y="0" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="2" src="fast_forward.png" x="128" y="0" width="128" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="32"/>
+    <textureregion id="3" src="fire_arrow_icon.png" x="256" y="0" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="4" src="ice_arrow_icon.jpg" x="320" y="0" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="5" src="menu_quit.png" x="0" y="32" width="200" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="50"/>
+    <textureregion id="6" src="menu_reset.png" x="200" y="32" width="200" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="50"/>
+    <textureregion id="7" src="money_icon.png" x="400" y="32" width="16" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="16" srcheight="16"/>
+    <textureregion id="8" src="multi_arrow_icon.jpg" x="416" y="32" width="64" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="32"/>
+    <textureregion id="9" src="play_pause.png" x="0" y="82" width="128" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="32"/>
+    <textureregion id="10" src="wheel.png" x="0" y="114" width="483" height="483" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="483" srcheight="483"/>
+</texture>
